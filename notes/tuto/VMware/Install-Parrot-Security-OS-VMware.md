@@ -21,7 +21,7 @@ A concise step-by-step guide to install **Parrot Security OS** in **VMware Works
 ## Download Parrot ISO
 
 1. Open the official website: [https://parrotsec.org](https://parrotsec.org)
-   ![Parrot OS webpage](../../img/VMware/parOSWebpage.png)
+   ![Parrot OS webpage](/img/VMware/parOSWebpage.png)
 2. Go to **Download → Live → Security** and select the appropriate ISO (64-bit most likely).
 3. Click **Download ISO image** and wait for the download to complete.
 
@@ -32,10 +32,10 @@ A concise step-by-step guide to install **Parrot Security OS** in **VMware Works
 1. Launch **VMware Workstation Pro**.
 2. Click **Create a New Virtual Machine**.
 3. Choose **Installer disc image file (iso)** and browse to the Parrot ISO you downloaded.
-   ![Create New VM](../../img/VMware/VMwareCreateNewVM.png)
+   ![Create New VM](/img/VMware/VMwareCreateNewVM.png)
 4. Give the VM a name you will recognize.
 5. Configure disk size (optional): change the maximum disk size if you want to allocate more or less space.
-   ![Max Disk VMware](../../img/VMware/maxDiskVMware.png)
+   ![Max Disk VMware](/img/VMware/maxDiskVMware.png)
 6. Adjust memory and CPU allocations based on your host resources (see Tips below).
 
 ---
@@ -44,17 +44,17 @@ A concise step-by-step guide to install **Parrot Security OS** in **VMware Works
 
 1. Start the newly created VM.
 2. From the boot menu, choose **Try / Install** to load the live session.
-   ![Try ParrotOS](../../img/VMware/TryParrotOS.png)
+   ![Try ParrotOS](/img/VMware/TryParrotOS.png)
 
 ---
 
 ## Install Parrot Security OS
 
 1. In the live environment, launch **Install Debian**.
-   ![Install Debian](../../img/VMware/IntsallDebian.png)
+   ![Install Debian](/img/VMware/IntsallDebian.png)
 2. Select your **language**, **location**, and **keyboard layout**.
 3. When prompted about partitioning, selecting **Erase disk** will only affect the VM virtual disk. Confirm if that is what you want.
-   ![Erase Disk](../../img/VMware/eraseDisk.png)
+   ![Erase Disk](/img/VMware/eraseDisk.png)
 4. Enter your **full name**, **username**, and **password** when requested. Keep a note of these credentials.
 5. Start the installation and wait for it to complete (several minutes).
 
