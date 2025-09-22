@@ -1,7 +1,6 @@
 # CyberHeroes - TryHackMe Writeup
 
 **Challenge Link:** [CyberHeroes @ TryHackMe](https://tryhackme.com/room/cyberheroes)  
-**Release Date:** March 2024  
 **Difficulty:** Easy  
 **Category:** Web, Enumeration  
 **Platform:** TryHackMe
