@@ -16,4 +16,4 @@ Guides related to VMware Workstation Pro and running virtual machines.
   *A walkthrough to create a virtual machine and install Parrot Security OS inside VMware.*
 
 - [VMware Tools](./VMware/Vmware-Tools.md)  
-  *How to install VMware Tools inside your guest OS to improve performance and enable features such as shared clipboard, drag-and-drop, and better display resolution.*
+  *How to install VMware Tools inside your linux OS to improve performance and enable features such as shared clipboard and drag-and-drop.*

@@ -6,6 +6,14 @@ A concise step-by-step guide to install **Parrot Security OS** in **VMware Works
 
 ---
 
+## Prerequisites
+
+* **VMware Workstation Pro** installed on your host system (if you don't, check [this tutorial](./Install-Vmware-Workstation-Pro.md) first).
+* Sufficient disk space and memory available for the virtual machine.
+* Internet connection to download Parrot Security OS ISO.
+
+---
+
 ## Table of contents
 
 * [Download Parrot ISO](#download-parrot-iso)

@@ -18,7 +18,7 @@ If you want to contribute (write-ups, labs, notes, or tool ideas), please read [
 ### Write-ups
 - `/writeups/` — write-ups for CTFs, retired boxes and personal labs.  
 
-### Tools
+### Projects
 - `/projects/tools/` — tool ideas, design notes and small prototypes.  
 
 ### Labs

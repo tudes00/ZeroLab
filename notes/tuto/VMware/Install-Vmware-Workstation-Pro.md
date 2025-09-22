@@ -5,6 +5,16 @@ VMware Workstation Pro is virtualization software that lets you run multiple ope
 
 ---
 
+## Prerequisites
+
+Before you begin, make sure you have:
+- A Windows PC with administrator privileges
+- At least 2 GB RAM (4 GB or more recommended)
+- Sufficient disk space for VMware and virtual machines
+- Internet connection to download the installer
+
+---
+
 ## Table of contents
 
 * [Create a Broadcom account](#create-a-broadcom-account)
